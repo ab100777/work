@@ -1,0 +1,13 @@
+.article {
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    margin-top: 60px
+}
+
+.section {
+    width: 200px;
+    height: 100px;
+    background-image: url(https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/079/54/0010795416.jpg&v=5b642ebb&w=348&h=348) ;
+    background-attachment: fixed;
+}
